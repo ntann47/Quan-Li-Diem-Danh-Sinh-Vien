@@ -1,0 +1,44 @@
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\BUS\bin\Debug\BUS.dll
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\BUS\bin\Debug\DAO.dll
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\BUS\bin\Debug\DTO.dll
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\BUS\bin\Debug\DAO.pdb
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\BUS\bin\Debug\DTO.pdb
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\BUS\obj\Debug\BUS.dll
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\BUS\obj\Debug\BUS.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\BUS\bin\Debug\BUS.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\BUS\bin\Debug\BUS.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\BUS\bin\Debug\DAO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\BUS\bin\Debug\DTO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\BUS\bin\Debug\DAO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\BUS\bin\Debug\DTO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\BUS\obj\Debug\BUS.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\BUS\obj\Debug\BUS.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\BUS\bin\Debug\BUS.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\BUS\bin\Debug\BUS.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\BUS\bin\Debug\DAO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\BUS\bin\Debug\DTO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\BUS\bin\Debug\DAO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\BUS\bin\Debug\DTO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\BUS\obj\Debug\BUS.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\BUS\obj\Debug\BUS.pdb
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\BUS\bin\Debug\BUS.dll
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\BUS\bin\Debug\BUS.pdb
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\BUS\bin\Debug\DAO.dll
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\BUS\bin\Debug\DTO.dll
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\BUS\bin\Debug\DAO.pdb
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\BUS\bin\Debug\DTO.pdb
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\BUS\obj\Debug\BUS.dll
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\BUS\obj\Debug\BUS.pdb

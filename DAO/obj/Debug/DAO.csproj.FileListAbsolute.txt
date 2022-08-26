@@ -1,0 +1,36 @@
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DAO\bin\Debug\DAO.dll
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DAO\bin\Debug\DAO.pdb
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DAO\bin\Debug\DTO.dll
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DAO\bin\Debug\DTO.pdb
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DAO\obj\Debug\DAO.dll
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DAO\obj\Debug\DAO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DAO\bin\Debug\DAO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DAO\bin\Debug\DAO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DAO\bin\Debug\DTO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DAO\bin\Debug\DTO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DAO\obj\Debug\DAO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DAO\obj\Debug\DAO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DAO\bin\Debug\DAO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DAO\bin\Debug\DAO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DAO\bin\Debug\DTO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DAO\bin\Debug\DTO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DAO\obj\Debug\DAO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DAO\obj\Debug\DAO.pdb
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\DAO\bin\Debug\DAO.dll
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\DAO\bin\Debug\DAO.pdb
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\DAO\bin\Debug\DTO.dll
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\DAO\bin\Debug\DTO.pdb
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\DAO\obj\Debug\DAO.dll
+D:\DiemDanhSinhVien (2)\DiemDanhSinhVien\DAO\obj\Debug\DAO.pdb

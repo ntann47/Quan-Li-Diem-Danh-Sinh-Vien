@@ -1,0 +1,11 @@
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DTO\bin\Debug\DTO.dll
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DTO\bin\Debug\DTO.pdb
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DTO\obj\Debug\DTO.dll
+C:\Users\Ngo Truong An\Desktop\CN.NET\DiemDanhSinhVien\DTO\obj\Debug\DTO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DTO\bin\Debug\DTO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DTO\bin\Debug\DTO.pdb
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DTO\obj\Debug\DTO.dll
+C:\Users\asus\Desktop\VIRUS\HocKi5\CongNghe.net\DOAN\DiemDanhSinhVien\DiemDanhSinhVien\DTO\obj\Debug\DTO.pdb
